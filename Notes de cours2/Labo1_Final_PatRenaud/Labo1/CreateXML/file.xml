@@ -1,0 +1,6 @@
+<root>
+    <Person Age="26" SecondName="Doe" FirstName="John"/>
+    <Person Age="25" SecondName="Doe" FirstName="Jane"/>
+    <Person Age="12" SecondName="Doe" FirstName="Willy"/>
+    <Person Age="3" SecondName="Doe" FirstName="Agathe"/>
+</root>

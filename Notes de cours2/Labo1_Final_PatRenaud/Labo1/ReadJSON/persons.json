@@ -1,0 +1,25 @@
+{
+	"persons" : 
+	[
+		{
+			"age" : 26,
+			"firstName" : "John",
+			"secondName" : "Doe"
+		},
+		{
+			"age" : 25,
+			"firstName" : "Jane",
+			"secondName" : "Doe"
+		},
+		{
+			"age" : 12,
+			"firstName" : "Willy",
+			"secondName" : "Doe"
+		},
+		{
+			"age" : 3,
+			"firstName" : "Agathe",
+			"secondName" : "Doe"
+		}
+	]
+}

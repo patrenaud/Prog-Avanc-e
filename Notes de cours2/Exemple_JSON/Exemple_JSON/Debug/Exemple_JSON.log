@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\users\1810057\source\repos\exemple_json\exemple_json\main.cpp(57): warning C4018: '<' : incompatibilité signed/unsigned
+  Exemple_JSON.vcxproj -> D:\Users\1810057\source\repos\Exemple_JSON\Debug\Exemple_JSON.exe
+  Exemple_JSON.vcxproj -> D:\Users\1810057\source\repos\Exemple_JSON\Debug\Exemple_JSON.pdb (Partial PDB)
