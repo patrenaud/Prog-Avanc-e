@@ -1,0 +1,21 @@
+﻿  main.cpp
+d:\users\1810057\desktop\prog avancée\prog-avanc-e\notes de cours2\cycledepointeurs\main.cpp(29): error C3867: 'std::_Ptr_base<_Ty>::use_count' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+          with
+          [
+              _Ty=B
+          ]
+d:\users\1810057\desktop\prog avancée\prog-avanc-e\notes de cours2\cycledepointeurs\main.cpp(32): error C3867: 'std::_Ptr_base<_Ty>::use_count' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+          with
+          [
+              _Ty=B
+          ]
+d:\users\1810057\desktop\prog avancée\prog-avanc-e\notes de cours2\cycledepointeurs\main.cpp(35): error C3867: 'std::_Ptr_base<_Ty>::use_count' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+          with
+          [
+              _Ty=B
+          ]
+d:\users\1810057\desktop\prog avancée\prog-avanc-e\notes de cours2\cycledepointeurs\main.cpp(42): error C3867: 'std::_Ptr_base<_Ty>::use_count' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+          with
+          [
+              _Ty=B
+          ]
